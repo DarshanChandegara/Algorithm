@@ -83,8 +83,8 @@ int main()
     cout<<"Dequeued element : "<<dequeue(&q)<<endl;
     cout<<"Dequeued element : "<<dequeue(&q)<<endl;
     cout<<"Dequeued element : "<<dequeue(&q)<<endl;
-    enqueue(&q,30);
-    enqueue(&q,35);
+    enqueue(&q,50);
+    enqueue(&q,55);
 
     display(&q);
     
